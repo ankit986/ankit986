@@ -2,7 +2,7 @@
 ### I am Ankit Bansal 👋
 
 
-Know more about me at https://ankit986.github.io/portfolio/
+Know more about me at https://ankit986.github.io/portfolio/ .
 
 <!--
 **ankit986/ankit986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
